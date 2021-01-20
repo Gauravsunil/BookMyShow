@@ -28,7 +28,7 @@ namespace BookMyShow.Services
        
         public List<Movie> GetMovies()
         {
-            return this.DatabaseInstance.ReadAll<BookMyShow.Models.DataModels.Movie>(true).Select(s=>s.MapTo<BookMyShow.Models.DataModels.Movie,Movie>()).ToList();
+            return this.DatabaseInstance.ReadAll<BookMyShow.Models.DataModels.Movie>(true).ToList().MapAllTo<BookMyShow.Models.DataModels.Movie,Movie>();
         } 
         
         public Movie GetMovie(int movieId)
@@ -83,7 +83,7 @@ namespace BookMyShow.Services
 
         public List<TimeSlot> GetTimeSlots()
         {
-            return this.DatabaseInstance.ReadAll<BookMyShow.Models.DataModels.TimeSlot>(true).Select(s=>s.MapTo<BookMyShow.Models.DataModels.TimeSlot,TimeSlot>()).ToList();
+            return this.DatabaseInstance.ReadAll<BookMyShow.Models.DataModels.TimeSlot>(true).ToList().MapAllTo<BookMyShow.Models.DataModels.TimeSlot,TimeSlot>();
         }
 
         public TimeSlot GetTimeSlot(int movieId)
@@ -95,7 +95,7 @@ namespace BookMyShow.Services
         public List<Movie> GetSearchMovies(string movieName)
         {
             var sql = $"SELECT * FROM Movies WHERE Name LIKE '{movieName}%'";
-            return this.DatabaseInstance.ReadAll<BookMyShow.Models.DataModels.Movie>(false, sql).Select(s=>s.MapTo<BookMyShow.Models.DataModels.Movie,Movie>()).ToList();
+            return this.DatabaseInstance.ReadAll<BookMyShow.Models.DataModels.Movie>(false, sql).ToList().MapAllTo<BookMyShow.Models.DataModels.Movie,Movie>();
         }
         
     }
@@ -108,6 +108,9 @@ namespace BookMyShow.Services
             return Mapper.Map<D>(data);
         }
 
-        
+        public static List<D> MapAllTo<S,D>(this List<S> data)
+        {
+            return Mapper.Map<List<D>>(data);
+        }
     }    
 }
