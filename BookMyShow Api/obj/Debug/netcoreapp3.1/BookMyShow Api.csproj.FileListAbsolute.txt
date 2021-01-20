@@ -1,0 +1,95 @@
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\BookMyShow Api.exe
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\obj\Debug\netcoreapp3.1\BookMyShow Api.csprojAssemblyReference.cache
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\obj\Debug\netcoreapp3.1\BookMyShow Api.AssemblyInfoInputs.cache
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\obj\Debug\netcoreapp3.1\BookMyShow Api.AssemblyInfo.cs
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\obj\Debug\netcoreapp3.1\BookMyShow Api.RazorTargetAssemblyInfo.cache
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\obj\Debug\netcoreapp3.1\staticwebassets\BookMyShow Api.StaticWebAssets.Manifest.cache
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\obj\Debug\netcoreapp3.1\staticwebassets\BookMyShow Api.StaticWebAssets.xml
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\obj\Debug\netcoreapp3.1\BookMyShow Api.csproj.CopyComplete
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\BookMyShow Api.deps.json
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\BookMyShow Api.runtimeconfig.json
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\BookMyShow Api.runtimeconfig.dev.json
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\BookMyShow Api.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\BookMyShow Api.pdb
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\obj\Debug\netcoreapp3.1\BookMyShow Api.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\obj\Debug\netcoreapp3.1\BookMyShow Api.pdb
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\obj\Debug\netcoreapp3.1\BookMyShow Api.genruntimeconfig.cache
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\SimpleInjector.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\SimpleInjector.Integration.AspNetCore.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\SimpleInjector.Integration.AspNetCore.Mvc.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\SimpleInjector.Integration.AspNetCore.Mvc.Core.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\SimpleInjector.Integration.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\SimpleInjector.Integration.ServiceCollection.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\BookMyShow\angular.json
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\BookMyShow\e2e\tsconfig.json
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\BookMyShow\package-lock.json
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\BookMyShow\package.json
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\BookMyShow\tsconfig.app.json
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\BookMyShow\tsconfig.json
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\BookMyShow\tsconfig.spec.json
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\BookMyShow\tslint.json
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\bin\Debug\netcoreapp3.1\Dapper.Contrib.dll
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\obj\Debug\netcoreapp3.1\BookMyShow Api.csproj.CoreCompileInputs.cache
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\obj\Debug\netcoreapp3.1\BookMyShow Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gaurav\source\repos\BookMyShow Api\BookMyShow Api\obj\Debug\netcoreapp3.1\BookMyShow Api.MvcApplicationPartsAssemblyInfo.cache

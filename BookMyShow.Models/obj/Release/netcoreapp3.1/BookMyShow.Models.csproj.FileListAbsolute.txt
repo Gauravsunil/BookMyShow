@@ -1,0 +1,9 @@
+C:\Users\Gaurav\source\repos\BookMyShow\BookMyShow.Models\bin\Release\netcoreapp3.1\BookMyShow.Models.deps.json
+C:\Users\Gaurav\source\repos\BookMyShow\BookMyShow.Models\bin\Release\netcoreapp3.1\BookMyShow.Models.dll
+C:\Users\Gaurav\source\repos\BookMyShow\BookMyShow.Models\bin\Release\netcoreapp3.1\BookMyShow.Models.pdb
+C:\Users\Gaurav\source\repos\BookMyShow\BookMyShow.Models\obj\Release\netcoreapp3.1\BookMyShow.Models.csprojAssemblyReference.cache
+C:\Users\Gaurav\source\repos\BookMyShow\BookMyShow.Models\obj\Release\netcoreapp3.1\BookMyShow.Models.AssemblyInfoInputs.cache
+C:\Users\Gaurav\source\repos\BookMyShow\BookMyShow.Models\obj\Release\netcoreapp3.1\BookMyShow.Models.AssemblyInfo.cs
+C:\Users\Gaurav\source\repos\BookMyShow\BookMyShow.Models\obj\Release\netcoreapp3.1\BookMyShow.Models.csproj.CoreCompileInputs.cache
+C:\Users\Gaurav\source\repos\BookMyShow\BookMyShow.Models\obj\Release\netcoreapp3.1\BookMyShow.Models.dll
+C:\Users\Gaurav\source\repos\BookMyShow\BookMyShow.Models\obj\Release\netcoreapp3.1\BookMyShow.Models.pdb
