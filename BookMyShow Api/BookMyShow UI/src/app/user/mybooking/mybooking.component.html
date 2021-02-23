@@ -1,0 +1,23 @@
+<div class="container">
+    <div class="row">
+        <table class="table table-borderless table-hover">
+            <h3 class="display-4 mb-3">My Bookings</h3>
+            <tbody>
+                <tr *ngFor="let movie of myBookings">
+                    <td>{{movie.name}}</td>
+                    <td>{{movie.Price}}</td>
+                    <td>{{movie.Quantity}}</td>
+                    <td>{{movie.Quantity*movie.Price}}</td>
+                    <td><button class="btn btn-outline-danger" (click)="deleteBooking(movie.Id)">X</button></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td>Total Amount</td>
+                    <td>{{totalPrice}}</td>
+                    <td><button class="btn btn-outline-success" (click)="confirmBooking()">Confirm Booking</button></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

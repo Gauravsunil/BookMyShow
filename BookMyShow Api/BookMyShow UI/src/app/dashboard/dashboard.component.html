@@ -1,0 +1,38 @@
+<div class="container">
+  <h3 class="display-4">Movies</h3>
+  <div class="row px-2 d-flex justify-content-center">
+    <div class="col-md-8">
+      <div class="form-group">
+        <input
+          type="text"
+          name="search"
+          id="search"
+          (keyup)="searchMovie($event)"
+          class="form-control"
+          placeholder="Search"
+        />
+      </div>
+    </div>
+  </div>
+  <div class="row pl-4">
+    <div *ngFor="let movie of movies">
+      <div
+        class="card"
+        style="width: 18em; margin: 10px"
+        [routerLink]="['/movie', movie.id]"
+      >
+        <img
+          class="card-img-top"
+          src="{{ movie.imageSource }}"
+          height="200px"
+          alt="Card image cap"
+        />
+        <div class="card-body">
+          <p class="card-text">{{ movie.name }}</p>
+          <p class="card-text">Price-{{ movie.price | currency: "INR" }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr />
+</div>

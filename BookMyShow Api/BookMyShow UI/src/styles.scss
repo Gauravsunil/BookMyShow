@@ -1,0 +1,27 @@
+
+.banner-image{
+    padding-top: 65px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url("https://images.pexels.com/photos/713149/pexels-photo-713149.jpeg") no-repeat center center;
+    background-size: cover; 
+}
+.banner-content{
+ position: relative;
+ padding-bottom: 6%;
+ margin-left: 20%;
+ margin-bottom: 22%;
+ background-color: rgba(0, 0, 0, 0.7);
+ max-width: 660px;
+}
+
+input[type="submit"]:disabled{
+    cursor: not-allowed;
+}
+
+
+.card:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+}

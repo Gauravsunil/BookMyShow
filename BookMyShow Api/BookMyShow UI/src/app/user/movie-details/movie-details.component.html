@@ -1,0 +1,23 @@
+
+
+<div class="container">
+    <div class="row my-3">
+        <div class="col-md-6">
+            <img src={{movie.imageSource}} width="500px" height="400px" alt="">
+        </div>
+        <div class="col-md-6 ">
+            <h4 class="display-4">{{movie.name}}</h4>
+            <p>Rating: {{movie.rating}}/10</p>
+            <p>Genre: {{movie.genre}}</p>
+            <p>Casts: <span *ngFor="let cast of movie.casts" class="mx-2">{{cast.castName}},</span></p>
+            <p>Director & Producer: {{movie.director}}/{{movie.producer}}</p>
+            <p>Price: Rs {{movie.price | currency:'INR'}}</p>
+            <p>Time Slot: {{timeSlot.startTime }}-{{timeSlot.endTime}}</p>
+            <p>No. of Person: <button class="btn btn-outline-primary" (click)="noOfPerson()">-</button>
+                <b class="mx-2">{{persons}}</b>
+                <button class="btn btn-outline-primary" (click)="noOfPerson(true)">+</button></p>
+            
+            <button class="btn btn-danger form-control" id="bookingButton" (click)="postBooking(movie)">Book</button>
+        </div>
+    </div>
+</div>

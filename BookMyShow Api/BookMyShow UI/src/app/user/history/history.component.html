@@ -1,0 +1,24 @@
+<div class="container">
+    <div class="row">
+        <h3 class="display-4 mb-3">History</h3>
+        <table class="table table-borderless table-striped">
+                <thead>
+                    <tr>
+                        <td>Movie</td>
+                        <td>Price</td>
+                        <td>Tickets</td>
+                        <td>Total Price</td>
+                    </tr>
+                </thead>
+            <tbody>
+                <tr *ngFor="let movie of bookingHistory">
+                    <td>{{movie.name}}</td>
+                    <td>{{movie.Price}}</td>
+                    <td>{{movie.Quantity}}</td>
+                    <td>{{movie.Quantity*movie.Price}}</td>
+                </tr>
+                
+            </tbody>
+        </table>
+    </div>
+</div>
